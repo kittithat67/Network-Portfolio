@@ -46,7 +46,7 @@ video : https://youtu.be/N_O2X03h5uI?si=bKDvhv4eTqH4e2Fx
 <img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Certificate_page-0001.jpg" />
 
 ## ✅ Checkpoint Exam
-<img width="851" src="Checkpoint%20Exam.png" alt="checkpoint-exam" />
+<img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Checkpoint%20Exam.png" />
 
 ---
 ## Networkprogramming2025
