@@ -44,7 +44,7 @@ video : https://youtu.be/N_O2X03h5uI?si=bKDvhv4eTqH4e2Fx
 
 ## 🏆 เกียรติบัตร (Certificate)
 <img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Certificate_page-0001.jpg" />
-
+https://github.com/kittithat67/Network-Portfolio/blob/main/Certificate2.pdf
 ## ✅ Checkpoint Exam
 <img width="851" height="568" alt="certificate" src="https://github.com/kittithat67/Network-Portfolio/blob/main/Checkpoint%20Exam.png" />
 
