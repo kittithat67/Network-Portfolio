@@ -31,7 +31,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 | LAB2 | [LAB2 pdf](https://github.com/kittithat67/Network-Portfolio/blob/main/LAB/Lab2.pdf) |
 | LAB3 | [LAB3 pdf](https://github.com/kittithat67/Network-Portfolio/blob/main/LAB/Lab3.pdf) |
 | LAB4 | [LAB4 pdf](https://github.com/kittithat67/Network-Portfolio/blob/main/LAB/Lab4.pdf) |
-| LAB5 | [LAB5 pdf]() |
+| LAB5 | [LAB5 pdf](https://github.com/kittithat67/Network-Portfolio/blob/main/LAB/Lab5.pdf) |
 
 ---
 
